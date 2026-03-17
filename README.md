@@ -156,5 +156,8 @@ presentation/
 ---
 
 ## 👨‍💻 Autor
-
+Nicolás Melo Chabot  
+Software Engineer | FullStack | Backend & AI  
+LinkedIn: [Linkedin](https://www.linkedin.com/in/nicol%C3%A1s-melo-chabot-6608831a2/)  
+GitHub: [Github](https://github.com/NicoChabot)
 Projeto desenvolvido como solução técnica para desafio de arquitetura de microsserviços.
