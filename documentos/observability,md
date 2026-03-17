@@ -1,0 +1,9 @@
+# Observability
+
+A solução implementa:
+
+* logs estruturados
+* métricas
+* tracing distribuído
+
+Permite monitoramento completo e troubleshooting eficiente.
